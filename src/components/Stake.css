@@ -1,0 +1,57 @@
+.stake{
+    background-image: url('../assets/Desktop\ Feature\ Background.jpg');
+}
+.stake .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 4rem;
+    max-width: 1200px;
+    grid-gap: 30px;
+
+}
+
+.stake .left {
+    text-align: center;
+}
+
+.stake img {
+    width: 459px;
+    height: 409px;
+}
+
+.stake img:hover {
+    transform: scale(1.1);
+    transition: 0.5s ease-in-out;
+}
+
+.stake .right p {
+    margin: 2rem 0;
+}
+
+@media screen and (max-width:940px) {
+    .stake .container {
+        grid-template-columns: 1fr;
+    }
+    
+    .stake img {
+        width: 240px;
+        height: 256px;
+    }
+
+    .stake .right{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .stake .right p {
+    text-align: center;
+    }
+    .stake .right h2{
+        text-align: center;
+    }
+    .order{
+       grid-row: 1;
+    }
+}

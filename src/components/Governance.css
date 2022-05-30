@@ -1,0 +1,22 @@
+.Governance{
+    background-image: url('../assets/Desktop\ Hero\ Background.jpg');
+   
+}
+
+.Governance .container {
+   
+    padding: 3rem 4rem;
+   max-width: 800px;
+   margin: 0 auto;
+}
+
+/* .Governance h2{
+    font-size: 25px;
+    color: #B4C466;
+} */
+
+.Governance p{
+    color: #7D7E81;
+    font-weight: 400;
+    line-height: 32px;
+}

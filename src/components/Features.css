@@ -1,0 +1,47 @@
+.features{
+    background-image: url('../assets/Desktop\ Feature\ Background.jpg');
+    padding-top: 172px;
+}
+.features .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 3rem 4rem;
+    max-width: 1200px;
+    grid-gap: 40px;
+
+}
+
+.features h2{
+    font-size: 25px;
+    color: white;
+}
+
+.features p{
+    font-size: 20px;
+    color: #7D7E81;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.features img {
+    width: 100px;
+    height: 100px;
+}
+
+.features img:hover {
+    transform: scale(1.1);
+    transition: 0.5s ease-in-out;
+}
+
+
+
+@media screen and (max-width:768px) {
+    .features .container {
+        grid-template-columns: 1fr;
+    }
+
+    .features p{
+        font-size: 16px;
+        
+    }
+}

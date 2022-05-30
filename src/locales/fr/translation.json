@@ -1,0 +1,121 @@
+
+{
+    "Language": "Francais",
+    "country_code": "fr",
+
+    "Learn_more_btn": "Apprendre encore plus",
+
+    "Header" : " Découvrez la puissance d'un ",
+    "Header_green" :"Multi-Chain Token",
+
+    "Header_text" : "Mountanaz est une plate-forme DeFi gouvernée par la communauté axée sur le jalonnement, le prêt, la gouvernance et la décentralisation",
+    "Header_buy_btn": "Acheter $MON",
+    "Header_chart_btn": "Afficher les graphiques",
+
+    "Header_missout_text": "Don't miss out on your chance to learn, earn and borrow; let your money work for you.",
+
+    "Stake_your_tokens": "Stake your tokens",
+    "Stake_your_tokens_text": "You may earn interest and the chance to vote on critical issues affecting the ecosystem by owning and staking the Mountanaz token. The staking protocol creates liquidity pools, with pools of staked earning incentives divided proportionally among liquidity suppliers or stakers.",
+
+    "Yield_farming": "Participate in yield farming!",
+    "Yield_farming_text": "With this service, users will have access to enhanced liquidity, clear interest rates, and lowers speculative risks. It also simplifies the loan process without the need for a counterparty",
+
+    "Swap_token": "Swap other digital tokens at no cost at all!",
+    "Swap_token_text": "Mountanaz identifies the best possible routes to fulfill trades across blockchain ecosystems. Thereby easing the burden for existing blockchain users and removing some barriers to entry for newbies.",
+
+    "Our_Features": "Our Features",
+
+    "Ft_stake_your_tokens": "Stake your tokens",
+    "Ft_stake_your_tokens_text": "You may earn interest and the chance to vote on critical issues affecting the ecosystem by owning and staking the Mountanaz token. The staking protocol creates liquidity pools, with pools of staked earning incentives divided proportionally among liquidity suppliers or stakers.",
+
+    "Scalability": "Scalability",
+    "Scalability_text": "You may earn interest and the chance to vote on critical issues affecting the ecosystem by owning and staking the Mountanaz token. The staking protocol creates liquidity pools, with pools of staked earning incentives divided proportionally among liquidity suppliers or stakers.",
+    
+    "Sustainability_in_Decentralization": "Sustainability in Decentralization",
+    "Sustainability_in_Decentralization_text": "To adequately safeguard the wealth it hosts, the platform would be wholly decentralized both in the short and long term. The platform and the community as a whole are to be open and permissionless. There is a strong emphasis on decentralization and participation. Both technology and community governance methods should allow for practical iteration while avoiding long-term capture by any one party to ensure sustainability.",
+
+    "Community": "Large Global Community",
+    "Community_text": "Join our large community of active users from all around the world! Connect and collaborate with various individuals from diverse knowledge and background. Our community welcomes everyone from all walks of life",
+
+    "Governance": "Governance",
+    "Governance_text": "Mountanaz will run on the concept of a Decentralised Autonomous Organisation (DAO) and only you can encourage the growth and development of Mountanaz by owning the $MRI token." ,
+    "Governance_text2":"All decisions will eventually be made through a consensus vote. Holders of more $MRI token will be rewarded with the successes of Mountanaz",
+
+    "Tokenomics_text": "The total supply of the Mountanaz token is 50M as it is distributed as follows:",
+
+    "Roadmap_text": "The total supply of the Mountanaz token is 50M as it is distributed as follows:",
+
+    "Phase1": "Phase I:",
+    "Phase1_white": "Creation of Website",
+    "Phase1_text": "The first stage will focus on creating and launching the official website of Mountanaz. The website will serve as the ecosystem and marketplace where users and token holders can buy the native token, stake tokens, exchange tokens, etc.",
+
+    "Phase II": "Phase II:",
+    "Phase2_white": "Release of Whitepaper",
+    "Phase2_text": "This next stage will be primarily dedicated to releasing and publishing project documentation. This publication contains all the relevant information you need to know about the project.",
+
+    "Phase3": "Phase III:",
+    "Phase3_white": "Private Sale",
+    "Phase3_text": "Here, limited investors and interested parties can invest in the project.",
+
+    "Phase4": "Phase IV:",
+    "Phase4_white": "Public Sale",
+    "Phase4_text": "The general public would have the option of purchasing the Mountanaz token.",
+
+    "Phase5": "Phase V:",
+    "Phase5_white": "Exchange Listing",
+    "Phase5_text": "The native tokens will be listed on major centralized and decentralized exchanges.",
+
+    "Phase6": "Phase VI:",
+    "Phase6_white": "Staking and Liquidity Pool Protocol",
+    "Phase6_text": "This phase will focus on releasing the staking and liquidity pool protocols.",
+
+    "Phase7": "Phase VII:",
+    "Phase7_white": "Yield Farming Launch",
+    "Phase7_text": "At this stage, token holders can take advantage of the yield farming service.",
+
+    "Phase8": "Phase VIII:",
+    "Phase8_white": "Marketing",
+    "Phase8_text": "Intensive marketing will be carried out to create more awareness of the ecosystem. We will employ various marketing strategies, including engaging famous crypto influencers’, getting a listing on coinmarketcap, coingecko, etc.",
+
+    "Phase9": "Phase X:",
+    "Phase9_white": "Multichain Launch",
+
+    "Faq": "Frequently Asked Questions",
+
+    "What_is_Mountanaz": "What is Mountanaz?",
+    "What_is_Mountanaz_ans": "Mountanaz is a multi-chain platform that acts as a bridge that links current blockchain ecosystems to overcome the constraints of previous decentralized technologies.",
+
+    "Multi_chain_work": "How does the multi-chain system work in Mountanaz?",
+    "Multi_chain_work_ans": "Mountanaz is a multi-chain platform that acts as a bridge that links current blockchain ecosystems to overcome the constraints of previous decentralized technologies.",
+
+    "Scam_prevention": "How will scams be prevented in the ecosystem?",
+    "Scam_prevention_ans": "Smart contracts are an essential aspect of the blockchain ecosystem, and they are used extensively. A smart contract is a programming technique that uses digital technology to facilitate, verify, or enforce an agreement. Smart contracts allow for the execution of secure transactions without the involvement of a third party.",
+
+    "How_does_staking_work": "How does Staking Work",
+    "How_does_staking_work_ans": "Staking on the Mountanaz entails locking your tokens for a fixed amount of time on the Protocol.",
+
+    "How_does_yield_work": "How does Yield Farming Work?",
+    "How_does_yield_work_ans": "When you make your crypto accessible on the ecosystem, the system automatically finds who needs to borrow the tokens. You get to earn passive income in the form of interest and a share of the revenue made.",
+
+    "Borrower": "How do I know I will get my tokens back from the borrower?",
+    "Borrower_ans": "Just like you cannot get a loan from a traditional financial system without collateral, the system does not just grant or borrow your assets to just anybody.",
+
+    "Connect_with_us": "Connect with Us",
+
+    "Benefit_of_mon": "The Benefits of the Mountanaz Token",
+    
+    "Yield_farming_ben1": "Le Yield Farming sur l'écosystème Mountanaz est une pratique dans laquelle les utilisateurs disposant de crypto-monnaies les investissent pour maximiser leur retour sur investissement. Les utilisateurs qui achètent $MRI auront la possibilité de maximiser leurs retours sur cet investissement.",
+    "Yield_farming_ben2": "Yield Farming entails lending or staking your cryptocurrency coins or tokens in exchange for transaction fees or interest as compensation. You're essentially lending money to the bank, so it's equivalent to earning interest on a bank account. Likewise, it's similar to the yield on a bond or a dividend in conventional investment.",
+    "Yield_farming_ben3": "Yield Farming will increase liquidity on the platform, and the more liquidity there is, the more money that may be borrowed for holders of the $MRI Token.",
+
+    "Staking_ben1": "Staking is the process of retaining tokens in a cryptocurrency wallet to receive a reward and support the blockchain network's security and operations. Staking, simply defined, is the act of placing coins into a cryptocurrency wallet and maintaining them there to get incentives.",
+    "Staking_ben2": "You may earn interest and the chance to vote on critical issues affecting the ecosystem by owning and staking the Mountanaz $MRI token.",
+    "Staking_ben3": "The staking protocol creates liquidity pools, with pools of staked earning incentives divided proportionally among liquidity suppliers or stakers.",
+
+    "Presale_text": "Don't miss out on an opportunity to let your money work for you on the",
+    "Presale_text_green": "Largest Multi-Chain DeFi Protocol",
+    "Enter_presale_btn": "Enter Presale"
+
+
+
+}

@@ -1,0 +1,62 @@
+.Yieldfarming{
+    background-image: url('../assets/Moutanaz\ Yield\ Farming.png');
+    background-size:cover;
+    background-position-y:-40px ;
+    background-repeat: no-repeat;
+    /* height: 1200px; */
+    padding: 60px 24px;
+    
+}
+.Yieldfarming-header{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 30px !important;
+}
+.yield-col-1{
+    max-width: 465px;
+    padding: 32px;
+    background: rgba(73, 81, 36, 0.5);
+    backdrop-filter: blur(25px);
+    border-radius: 16px;
+}
+
+.yield-col-1 p{
+    color: white;
+}
+
+.yieldfarming-content.right{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.yieldfarming-content.left{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: -144px;
+}
+
+@media screen and (max-width: 940px) {
+    .Yieldfarming{
+        background-image: url('../assets/Mobile\ Yield.png');
+        background-size:cover;
+        background-position: top;
+        height: auto; 
+        padding: 40px 24px;
+    }
+
+    .Yieldfarming-header{
+       
+        font-size: 20px;
+        
+    }
+    .yieldfarming-content.left{
+        margin-top: 0px;
+    }
+
+   
+   .yieldfarming-container{
+       display: flex;
+       flex-direction: column;
+       grid-gap: 50px;
+   }
+}

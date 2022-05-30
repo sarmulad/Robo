@@ -1,0 +1,26 @@
+.Presale{
+    padding: 50px 24px 40px 24px; 
+   
+}
+.Presale .center h1{
+    color: white;
+    max-width: 1000px;
+    margin: 0 auto;
+
+}
+h1 .green{
+    color: #78843b;
+}
+
+.presale-btn{
+    margin-bottom: 0px !important;
+}
+
+@media screen and (max-width: 940px) {
+    
+    .center h1{
+       
+        font-size: 24px;
+        
+    }
+}

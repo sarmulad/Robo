@@ -1,0 +1,38 @@
+.FAQ{
+    background-color: #0E1116;
+}
+
+.FAQ h1{
+    margin-bottom: 40px;
+    font-size: 49px;
+}
+
+.faq-icons{
+    margin-top: 65px;
+}
+.icons-mobile{
+    display: none;
+}
+.icons-desktop{
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width:768px) {
+
+.icons-desktop{
+    display: none;
+    }
+
+.icons-mobile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-gap: 40px;
+}
+
+h1{
+    font-size: 25px;
+}
+
+}

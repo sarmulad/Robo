@@ -1,0 +1,37 @@
+.Tokenomics {
+    background:#545c29 ;
+}
+
+.Tokenomics .container {
+    padding: 3rem 4rem;
+  
+}
+.tokenomics-img{
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+    justify-content: space-between;
+    align-items: center;
+    grid-gap: 50px;
+    margin-top: 40px;
+}
+
+.tokenomics-img img{
+    width: 100%;
+}
+.Tokenomics h2{
+    /* font-size: 25px; */
+    text-align: center;
+    color: #B4C466;
+}
+
+.Tokenomics p{
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+
